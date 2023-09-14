@@ -3,8 +3,8 @@ import cv2 as cv
 
 # reading image
 
-hurly = cv.imread('photo/lost_hurly.jpg')
-cv.imshow('THE LOST', hurly)
+hurley = cv.imread('photo/lost_hurley.jpg')
+cv.imshow('THE LOST', hurley)
 cv.waitKey(0)
 
 
